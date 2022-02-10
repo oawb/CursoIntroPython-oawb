@@ -1,2 +1,6 @@
 # CursoIntroPython-oawb
-launchx precourse
+
+launchx precourse.
+
+"Siempre hacia adelante, ni para tomar impulso se retrocede"
+
